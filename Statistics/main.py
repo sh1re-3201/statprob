@@ -11,4 +11,4 @@ def main():
     print('belakangan')
     print('kedepan')
     print("kembali")
-    print("makan")
+    print("minum")
