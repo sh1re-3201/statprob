@@ -6,4 +6,4 @@ import warnings
 warnings.filterwarnings("ignore")
 
 def main():
-cuki
+    print('ko cuki ayam')
