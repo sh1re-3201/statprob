@@ -7,3 +7,4 @@ warnings.filterwarnings("ignore")
 
 def main():
     print('tuhan itu baik')
+    print('alhamdulillah')
