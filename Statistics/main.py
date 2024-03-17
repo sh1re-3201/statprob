@@ -10,3 +10,4 @@ def main():
     print('alhamdulillah')
     print('belakangan')
     print('kedepan')
+    print("kembali")
